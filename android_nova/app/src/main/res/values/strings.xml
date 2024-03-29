@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nova</string>
+    <string name="overview">Overview</string>
+    <string name="see_all_events">See AlL Events</string>
+    <string name="categories">Categories</string>
+</resources>

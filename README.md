@@ -14,7 +14,7 @@ Nova is a news and weather app, blending real-time updates and precise forecasts
 </br>
 
 <p align="center">
-    <img src = "https://github.com/NorbertoTaveras/android_nova/blob/main/assets/news_weather_logo.jpeg" width="40%"/>
+    <img src = "https://github.com/NorbertoTaveras/android_nova/blob/main/assets/news_weather_logo_rounded.png" width="40%"/>
 </p>
 
 ## Download

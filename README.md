@@ -35,7 +35,7 @@ Go to the [Releases](https://github.com/NorbertoTaveras/android_nova/releases) t
     - MVI Architecture (Model - View - Intent)
     - Repository Pattern
     - Usecases
-- [Material3]([https://github.com/material-components/material-components-android](https://m3.material.io/)) - Material 3 Components
+- [Material3]([https://github.com/material-components/material-components-android](https://m3.material.io/) - Material 3 Components
 - [Retrofit](https://github.com/square/retrofit) - Construct the REST APIs and paging network data.
 
 ## Screenshots
